@@ -2,7 +2,7 @@
 
 GeoMax is a university project for my first semester C programming course. It is a console window coordinate geometry program with limited, yet very useful functions.
 
-My main goal with this program was to create something more complex then required by uni, and this something should be 100% stable and mostly unbreakable. I think I achieved the set goals, and even did a little more. I created a console app that does not look awful. (I do think that at least..)<br/>
+My main goal with this program was to create something more complex then required by uni, and this something should be 100% stable and mostly unbreakable. I think I achieved the set goals, and even did a little more. I created a console app that does not look awful.<br/>
 During the development, I paid attention to cross platform compatibility, so I dove deeper into the language itself in order to make the program work on POSIX and Windows environments as well.<br/>
 I also experienced the stress and crunch that a close deadline can cause, and that is a valuable lesson on time management and planning.
 
@@ -30,7 +30,7 @@ I also experienced the stress and crunch that a close deadline can cause, and th
     - [On Win11: Settings > System > For developers > Terminal : Windows Console Host]
 - The program was developed and tested on Windows platform and it compiles without errors on Linux as well, but I did no testing there. Since I own no Apple hardware, and therefore can do absolutely no testing, I disabled the execution on Apple devices with a macro.
 
-  ## The project
+## The project
 
-  - This project was mostly used for learning purposes and to try language functions, while keeping up with the deadline and uni requirements.
-  - I made it public, as it may contain useful ideas for other.
+- This project was mostly used for learning purposes and to try language functions, while keeping up with the deadline and uni requirements.
+- I made it public, as it may contain useful ideas for other.
